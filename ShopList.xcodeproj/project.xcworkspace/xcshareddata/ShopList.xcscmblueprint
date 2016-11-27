@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B8DAD7746A6DD5F726BE40F8CC433B528659F58A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3EF262807AEA390646C754922C00690DCC70FDD7" : 0,
+    "B8DAD7746A6DD5F726BE40F8CC433B528659F58A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B9F888FC-EF19-43F1-9E72-BADB0167CED3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3EF262807AEA390646C754922C00690DCC70FDD7" : "",
+    "B8DAD7746A6DD5F726BE40F8CC433B528659F58A" : "ShopList\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShopList",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShopList.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Grodius\/ShopList",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EF262807AEA390646C754922C00690DCC70FDD7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Grodius\/ShopList",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B8DAD7746A6DD5F726BE40F8CC433B528659F58A"
+    }
+  ]
+}
